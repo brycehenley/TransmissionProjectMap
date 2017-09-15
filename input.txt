@@ -1,0 +1,200 @@
+T508732 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.87 9.73 
+T304784 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.96 -5.50 
+T707312 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 36.90 -6.78 
+T693972 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 18.52 1.00 
+T1088690 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.31 8.72 
+T1071203 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.18 7.90 
+T921861 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.07 -4.80 
+T246468 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.32 8.01 
+T540951 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.09 -2.49 
+T705672 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 18.93 -1.67 
+T207072 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.36 -4.24 
+T580386 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 26.43 -16.45 
+T997503 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.33 8.26 
+T460534 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 2.65 5.33 
+T109455 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.76 -8.91 
+T939206 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.19 9.34 
+T439520 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.21 4.02 
+T1037820 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 24.68 -5.92 
+T630880 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 18.23 -0.58 
+T1009815 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.40 -7.18 
+T879708 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 26.93 14.18 
+T825309 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.96 5.78 
+T688084 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 26.53 -11.17 
+T1064674 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.55 -17.92 
+T320326 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.71 -2.82 
+T722473 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 41.25 3.19 
+T503662 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9.84 -4.69 
+T680671 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.95 -0.21 
+T447111 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 43.86 -8.69 
+T310158 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.31 -4.66 
+T753867 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6.65 -9.36 
+T1025889 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.09 -8.52 
+T684128 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.03 -8.66 
+T700239 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 44.83 12.31 
+T550450 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.92 0.85 
+T821646 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.99 -18.24 
+T564399 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.67 -1.26 
+T271946 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.34 1.27 
+T604535 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 32.04 -6.58 
+T1096964 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 7.99 -5.95 
+T1086932 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6.08 -4.68 
+T651604 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.78 -5.17 
+T1070683 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.17 8.38 
+T913235 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.64 -8.02 
+T927329 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 37.53 5.61 
+T197795 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.47 -4.19 
+T486638 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.97 -8.04 
+T308637 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.48 6.69 
+T497046 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -1.15 1.89 
+T758688 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.41 -4.13 
+T302685 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 45.02 4.91 
+T961894 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6.82 -1.08 
+T846516 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 31.85 -1.22 
+T548546 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.41 -9.97 
+T682062 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.80 -8.01 
+T731305 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.19 0.71 
+T1045869 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.08 -3.38 
+T871279 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 41.75 -4.65 
+T609533 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.12 3.44 
+T671934 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 23.15 4.22 
+T980781 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.60 -5.85 
+T185549 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.14 -18.40 
+T152189 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.37 -2.74 
+T960589 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.74 -6.14 
+T670674 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9.97 12.92 
+T323146 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.93 -0.34 
+T1093463 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.81 -0.59 
+T928186 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.23 7.88 
+T205934 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.71 8.64 
+T944731 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.40 4.07 
+T684017 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.07 1.70 
+T837374 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 27.60 1.93 
+T812516 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.47 6.26 
+T985307 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -1.04 -3.10 
+T412449 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.12 -11.03 
+T938385 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.84 -8.08 
+T449591 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 32.29 8.61 
+T471018 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.36 10.02 
+T1009550 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.56 -5.39 
+T943089 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.00 -17.37 
+T269199 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.13 1.92 
+T708035 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.64 8.36 
+T114119 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.50 -1.50 
+T361004 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 40.95 9.18 
+T441858 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.98 1.61 
+T1081497 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.98 -13.62 
+T277041 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -1.35 2.88 
+T978753 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 43.76 9.87 
+T144670 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.10 -7.22 
+T371836 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6.46 -3.03 
+T353431 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.39 -4.97 
+T355712 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.47 -8.47 
+T185301 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.52 -8.05 
+T216186 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.29 -11.15 
+T108004 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.15 -2.63 
+T324749 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.33 4.51 
+T732623 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.77 7.64 
+T492223 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 19.35 -3.69 
+T432692 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 38.43 -8.47 
+T745034 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 30.02 0.26 
+T838734 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.39 -3.81 
+T127842 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 44.07 -2.69 
+T215279 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.56 3.87 
+T892223 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 35.31 -6.07 
+T656185 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.38 3.81 
+T137624 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 7.58 -17.70 
+T126270 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.53 2.03 
+T983050 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 32.01 -8.11 
+T905975 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.64 -1.09 
+T580423 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.22 -7.29 
+T143102 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.90 -4.12 
+T987515 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.10 3.84 
+T375715 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.09 -0.66 
+T461498 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 7.72 0.86 
+T1032086 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 40.86 -6.93 
+T268814 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 34.83 -0.96 
+T678410 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.95 -5.70 
+T657900 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9.26 -1.63 
+T569207 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.45 -8.40 
+T237498 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.60 9.71 
+T162916 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.54 3.12 
+T253302 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.92 -9.33 
+T597302 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.83 6.62 
+T671193 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.09 6.14 
+T136032 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.37 1.52 
+T753090 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 23.84 -2.20 
+T723715 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9.87 6.05 
+T361416 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.42 -0.94 
+T426197 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 41.33 3.48 
+T281307 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.62 6.70 
+T222229 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 19.39 -2.97 
+T731978 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.36 7.10 
+T333547 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.42 -11.71 
+T299931 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.77 -3.61 
+T1070185 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.40 2.85 
+T227152 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 7.02 5.81 
+T479299 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6.08 3.45 
+T138042 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9.67 -4.85 
+T117335 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.35 -0.92 
+T989969 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 13.87 7.27 
+T665117 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.31 -5.64 
+T213841 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 46.81 7.17 
+T194048 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.26 -6.80 
+T558161 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 2.65 1.97 
+T369006 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.43 12.38 
+T993461 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.20 -19.61 
+T300732 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.27 3.87 
+T269990 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -0.35 3.54 
+T233196 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.40 -0.32 
+T749424 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.48 -0.17 
+T679333 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.99 -4.27 
+T391197 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.04 3.84 
+T985507 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 2.37 -6.62 
+T925555 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.83 -0.59 
+T213035 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.81 -7.82 
+T691218 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 2.95 -9.56 
+T856229 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 14.90 -10.53 
+T218900 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.19 -0.78 
+T253350 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4.93 14.89 
+T271840 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.30 10.95 
+T679563 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.80 -6.83 
+T245075 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 7.23 -9.68 
+T215295 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 7.59 -9.56 
+T165364 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6.28 6.87 
+T855815 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 20.37 -8.03 
+T653029 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1.65 -1.10 
+T242442 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 35.77 -5.54 
+T908568 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.33 -5.02 
+T869092 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.88 -0.89 
+T426389 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 13.25 -6.03 
+T1041904 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 16.35 4.90 
+T285149 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... -1.66 -2.72 
+T619436 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 2.24 10.76 
+T428912 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.21 -6.80 
+T780729 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.64 8.35 
+T949681 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.28 -4.72 
+T348857 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 42.92 -5.28 
+T697306 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 38.64 -6.19 
+T1060960 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.68 -8.48 
+T132229 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.14 -4.14 
+T931611 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.92 2.63 
+T327384 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.78 -0.85 
+T956255 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8.27 -7.73 
+T701387 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.98 -0.38 
+T191329 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.43 -10.65 
+T310660 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 37.10 6.72 
+T194860 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15.88 -5.90 
+T368704 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5.74 -6.44 
+T1089434 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12.67 -6.63 
+T301197 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 0.09 -9.22 
+T790885 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 2.90 -17.75 
+T892180 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.82 -9.90 
+T269517 Project name goes here Design STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3.41 -7.50 
+T1000468 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 10.22 -4.82 
+T215540 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 13.57 9.66 
+T135439 Project name goes here Planning STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 19.54 -1.14 
+T599272 Project name goes here Construction STARR:  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11.18 2.62 
+T1038273 Project name goes here Planning Storm  etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17.11 -8.23 
+T1018324 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 19.34 -1.00 
+T876150 Project name goes here Complete SM 202 etc ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 27.12 -5.31 
